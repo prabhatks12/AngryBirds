@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 988e2c4f6d216f54997f5dcd9ccfd783
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Scream Real
+  fontNames:
+  - Scream Real
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4ab1c97116f976940b9066cba410d268, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
